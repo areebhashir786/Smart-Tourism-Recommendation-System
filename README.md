@@ -1,4 +1,3 @@
-## Author:- Areeb Hashir
 
 # Smart Tourism-Recommender-System
 
